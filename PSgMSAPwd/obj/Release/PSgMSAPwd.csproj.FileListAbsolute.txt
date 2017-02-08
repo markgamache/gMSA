@@ -1,0 +1,7 @@
+C:\temp\gMSAPwdToClip\PSgMSAPwd\bin\Release\psGMSA.dll.config
+C:\temp\gMSAPwdToClip\PSgMSAPwd\bin\Release\psGMSA.dll
+C:\temp\gMSAPwdToClip\PSgMSAPwd\bin\Release\psGMSA.pdb
+C:\temp\gMSAPwdToClip\PSgMSAPwd\bin\Release\System.Management.Automation.dll
+C:\temp\gMSAPwdToClip\PSgMSAPwd\obj\Release\PSgMSAPwd.csprojResolveAssemblyReference.cache
+C:\temp\gMSAPwdToClip\PSgMSAPwd\obj\Release\psGMSA.dll
+C:\temp\gMSAPwdToClip\PSgMSAPwd\obj\Release\psGMSA.pdb
