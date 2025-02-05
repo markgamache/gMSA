@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\reallyHopeThisWorks\\gMSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F0E9-4F32-4E1F-A84E-0422E5C11E4A}|PSgMSAPwd\\PSgMSAPwd.csproj|c:\\reallyhopethisworks\\gmsa\\psgmsapwd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F0E9-4F32-4E1F-A84E-0422E5C11E4A}|PSgMSAPwd\\PSgMSAPwd.csproj|solutionrelative:psgmsapwd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F0E9-4F32-4E1F-A84E-0422E5C11E4A}|PSgMSAPwd\\PSgMSAPwd.csproj|C:\\reallyHopeThisWorks\\gMSA\\psgmsapwd\\ldap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F0E9-4F32-4E1F-A84E-0422E5C11E4A}|PSgMSAPwd\\PSgMSAPwd.csproj|solutionrelative:psgmsapwd\\ldap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PSgMSAPwd||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F0E9-4F32-4E1F-A84E-0422E5C11E4A}|PSgMSAPwd\\PSgMSAPwd.csproj|c:\\reallyhopethisworks\\gmsa\\psgmsapwd\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\reallyHopeThisWorks\\gMSA\\PSgMSAPwd\\Program.cs",
+              "RelativeDocumentMoniker": "PSgMSAPwd\\Program.cs",
+              "ToolTip": "C:\\reallyHopeThisWorks\\gMSA\\PSgMSAPwd\\Program.cs",
+              "RelativeToolTip": "PSgMSAPwd\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAzwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-14T15:27:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LDAP.cs",
+              "DocumentMoniker": "C:\\reallyHopeThisWorks\\gMSA\\PSgMSAPwd\\LDAP.cs",
+              "RelativeDocumentMoniker": "PSgMSAPwd\\LDAP.cs",
+              "ToolTip": "C:\\reallyHopeThisWorks\\gMSA\\PSgMSAPwd\\LDAP.cs",
+              "RelativeToolTip": "PSgMSAPwd\\LDAP.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAEwJ0BAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-24T21:46:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PSgMSAPwd",
+              "DocumentMoniker": "C:\\reallyHopeThisWorks\\gMSA\\PSgMSAPwd\\PSgMSAPwd.csproj",
+              "RelativeDocumentMoniker": "PSgMSAPwd\\PSgMSAPwd.csproj",
+              "ToolTip": "C:\\reallyHopeThisWorks\\gMSA\\PSgMSAPwd\\PSgMSAPwd.csproj",
+              "RelativeToolTip": "PSgMSAPwd\\PSgMSAPwd.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-02-23T20:16:57.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

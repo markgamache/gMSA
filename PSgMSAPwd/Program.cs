@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Management.Automation;
-using System.Security;
+using System.Security; 
 
 namespace psGMSA
 {
@@ -50,6 +50,14 @@ namespace psGMSA
                     pwdToUse = mPass.OldPassword;
                     string warn = string.Format("You may want to sit back and wait.  The password will change at {0}", mPass.dtNextQueryTime.ToString("MM-dd-yyyy HH:mm:ss.ff"));
                     ni.WriteWarning(warn);
+                }
+
+                if (!bNewPwdGood && !bOldPwdGood)
+                {
+                    pwdToUse = mPass.CurrentPassword;
+                    string warn = string.Format("The current password failed santity check, but returning it anyway. Be careful");
+                    ni.WriteWarning(warn);
+                    
                 }
 
             }

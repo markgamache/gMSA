@@ -510,7 +510,7 @@ namespace psGMSA
             }
             catch (Exception ex)
             {
-
+                string x = ex.Message;
             }
             tConn.Dispose();
             return false;

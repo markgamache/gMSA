@@ -1,0 +1,9 @@
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\bin\Debug\psGMSA.dll.config
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\bin\Debug\psGMSA.dll
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\bin\Debug\psGMSA.pdb
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\bin\Debug\System.Management.Automation.dll
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\obj\Debug\PSgMSAPwd.csproj.AssemblyReference.cache
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\obj\Debug\PSgMSAPwd.csproj.CoreCompileInputs.cache
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\obj\Debug\PSgMSAPwd.csproj.Up2Date
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\obj\Debug\psGMSA.dll
+C:\reallyHopeThisWorks\gMSA\PSgMSAPwd\obj\Debug\psGMSA.pdb
